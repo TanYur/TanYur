@@ -10,15 +10,5 @@ Here are some ideas to get you started:
 <p> 🌱 *I’m currently learning HTML, CSS, JS, , Bootstrap, RWD, BEM, React, Redux, TypeScript</p>
 <p> 🚧 **My tasks for the near future:**</p>
 <!-- TODO-IST:START -->
-<p>  🌱 Create my projects on Github</p>  
-<p>  🌱 Create my projects on Github</p> 
-<p>  🌱 Create my projects on Github</p>
-<p>  🌱🌱 </p> 
-<p>  🌱🌱🌱🌱 </p> 
-<p>  🌱🌱🌱🌱🌱🌱 </p> 
-<p>  🌱🌱🌱🌱🌱🌱🌱🌱 </p> 
-<p>  🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱 </p> 
-<p>  🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱 </p> 
-<p>  🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱 </p> 
-<p>  🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱 </p> 
+<p> 🌱 Create my projects on Github</p>
 <!-- TODO-IST:END -->
